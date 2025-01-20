@@ -25,8 +25,8 @@ This repository showcases my projects in **SQL, Python, Spark, and Statistics**.
 ---
 
 ## 🔗 Connect With Me
-📧 Email: [your-email@example.com](mailto:anastasia.chapel@student.ie.edu)  
-💼 LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/anastasiachapel)  
-🚀 GitHub: [Your GitHub Profile](https://github.com/anastasiachapel)
+📧 Email: [anastasia.chapel@student.ie.edu](mailto:anastasia.chapel@student.ie.edu)  
+💼 LinkedIn: [www.linkedin.com/in/anastasiachapel](www.linkedin.com/in/anastasiachapel)  
+🚀 GitHub: [https://github.com/anastasiachapel](https://github.com/anastasiachapel)
 
 ---
